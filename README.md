@@ -34,7 +34,7 @@ This project aims to evaluate the effectiveness of transfer learning by fine-tun
 
 ## Results
 
-### Bounding Box Metrics (COCO Evaluation)
+### Bounding Box Metrics
 
 | Metric                      | Pre-trained (COCO) | Fine-tuned (Penn-Fudan) |
 |----------------------------|--------------------|--------------------------|
@@ -45,7 +45,7 @@ This project aims to evaluate the effectiveness of transfer learning by fine-tun
 | AP_medium (bbox)           | 78.99              | 83.68                    |
 | AP_large (bbox)            | 83.13              | 84.30                    |
 
-### Segmentation Metrics (COCO Evaluation)
+### Segmentation Metrics
 
 | Metric                      | Pre-trained (COCO) | Fine-tuned (Penn-Fudan) |
 |----------------------------|--------------------|--------------------------|
